@@ -1,0 +1,11 @@
+Financial Analysis
+-------------------------
+Total Months: 86
+The net amount of Profit/Losses is: $38382578
+The average amount of Profit/Losses is: $-2315.12
+The greatest profit is:
+         Date    Changes
+25  Feb-2012  1926159.0
+The greatest loss is:
+         Date    Changes
+44  Sep-2013 -2196167.0
